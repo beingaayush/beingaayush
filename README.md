@@ -54,14 +54,11 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=beingaayush&theme=vision-friendly-dark&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaayush&theme=vision-friendly-dark&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingaayush&theme=vision-friendly-dark&hide_border=true&langs_count=10&layout=compact" />
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beingaayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=beingaayush&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beingaayush&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
