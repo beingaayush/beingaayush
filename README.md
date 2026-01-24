@@ -47,7 +47,7 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 
-### 📊 GitHub Stats (Animated)
+### 📊 GitHub Stats 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=beingaayush&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -60,7 +60,7 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 
 ---
 
-### 🐍 Contribution Snake (Animated)
+### 🐍 Contribution Snake 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/beingaayush/beingaayush/output/github-contribution-grid-snake-dark.svg" />
