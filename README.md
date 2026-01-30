@@ -62,7 +62,7 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 
 ---
 
-### 🐍 Contribution Snake 
+### 🐍 Contribution 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/beingaayush/beingaayush/output/github-contribution-grid-snake-dark.svg" />
