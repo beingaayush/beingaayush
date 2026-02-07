@@ -50,19 +50,12 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 
 ---
 # 📊 GitHub Stats:
-<!-- <p align="center">
+<div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=beingaayush&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://YOUR_VERCEL_URL/api?username=beingaayush&count_private=true&include_all_commits=true&show_icons=false"
     alt="GitHub Stats"
   />
-</p> -->
-
-<p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=beingaayush&theme=blue-green&hide_border=false" 
-    alt="GitHub Streak"
-  />
-</p>
+</div>
 
 
 ### 🐍 Contribution 
