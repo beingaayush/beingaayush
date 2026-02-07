@@ -52,7 +52,7 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 # 📊 GitHub Stats:
 <div align="center">
   <img 
-    src="https://YOUR_VERCEL_URL/api?username=beingaayush&count_private=true&include_all_commits=true&show_icons=false"
+    src="https://github-readme-stats-git-master-beingaayushs-projects.vercel.app/api?username=beingaayush&count_private=true&include_all_commits=true&show_icons=false"
     alt="GitHub Stats"
   />
 </div>
