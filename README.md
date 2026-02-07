@@ -49,15 +49,6 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 </div>
 
 ---
-# 📊 GitHub Stats:
-<div align="center">
-  <img 
-    src="https://github-readme-stats-git-master-beingaayushs-projects.vercel.app/api?username=beingaayush&count_private=true&include_all_commits=true&show_icons=false"
-    alt="GitHub Stats"
-  />
-</div>
-
-
 ### 🐍 Contribution 
 <div align="center">
 
