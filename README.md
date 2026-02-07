@@ -1,6 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Aayush</h1>
-  <h2>Backend Developer | MERN Stack</h2>
+  <h2>Backend-focused MERN Developer | Auth, APIs, Automation
+</h2>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Programming;Exploring;Building;Learning" alt="Typing SVG">
 </div>
@@ -47,11 +48,22 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
 </div>
 
-
-
-
-
 ---
+# 📊 GitHub Stats:
+<!-- <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=beingaayush&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats"
+  />
+</p> -->
+
+<p align="center">
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=beingaayush&theme=blue-green&hide_border=false" 
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ### 🐍 Contribution 
 <div align="center">
