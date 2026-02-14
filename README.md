@@ -64,7 +64,7 @@ Currently sharpening my **DSA skills** and exploring **backend & automation syst
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://aayush-portfolio-pink.vercel.app/">
+  <a href="https://aayushportfolio-blue.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/beingaayush">
