@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Aayush</h1>
-  <h2>Backend-focused MERN Developer | Auth, APIs, Automation
+  <h2>Backend Developer | Java & Node.js | MERN
 </h2>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Programming;Exploring;Building;Learning" alt="Typing SVG">
