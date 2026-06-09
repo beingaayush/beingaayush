@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Aayush</h1>
-  <h2>Backend Developer | Java & Node.js | MERN
+  <h2>Full Stack Developer | WEB3 Dev | MERN
 </h2>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=650&lines=Programming;Exploring;Building;Learning" alt="Typing SVG">
@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 Hi 👋 I’m **Aayush**, a CSE student passionate about building **scalable web applications** and solving problems with code.  
 I work primarily with the **MERN stack** and enjoy turning ideas into **real-world projects**.  
-Currently sharpening my **DSA skills** and exploring **backend & automation systems**.
+Currently sharpening my **DSA skills** and exploring **backend & Ai systems**.
 
 ---
 
